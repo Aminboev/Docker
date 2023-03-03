@@ -1,4 +1,4 @@
-# Slurm Docker Cluster
+# Slurm Docker
 
 This is a multi-container Slurm cluster using docker-compose.  The compose file
 creates named volumes for persistent storage of MySQL data files as well as
